@@ -1,2 +1,3 @@
-# Dream3
-Assignment
+### _My Third Dream Project_
+
+This is my third dream project for my Galvanize python class
